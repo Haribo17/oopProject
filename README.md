@@ -3,13 +3,6 @@
 이 프로젝트는 MCP에 대해 공부하고 
 MCP 관련 취약점인 prompt injcetion에 대한 취약점 시나리오를 바탕으로 보안까지 실습해보는 프로젝트이다.
 
-## 실습 시나리오
-
-1. 필요한 패키지 설치:
-```bash
-pip install -r requirements.txt
-```
-
 ## 실행 방법
 
 1. 공격자 코드 실행:
